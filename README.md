@@ -1,6 +1,6 @@
 # ✨ Writing Pen and Pad for Children with Specific Learning Disabilities ✨
 
-![Banner Image](https://your-image-url-here.com/banner.png)
+![Banner Image](https://media.istockphoto.com/id/1201022624/photo/inclusion-text-of-multi-colored-cubes-on-dark-background-inclusive-social-concept.jpg?s=1024x1024&w=is&k=20&c=nNgYeAR9QMyk0L9EnaqxnHnwP3LENXsg8envWIxMmuA=)
 
 ## 📝 Overview
 
