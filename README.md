@@ -2,6 +2,11 @@
 
 ![Banner Image](https://media.istockphoto.com/id/1201022624/photo/inclusion-text-of-multi-colored-cubes-on-dark-background-inclusive-social-concept.jpg?s=1024x1024&w=is&k=20&c=nNgYeAR9QMyk0L9EnaqxnHnwP3LENXsg8envWIxMmuA=)
 
+
+## 🔗 Link to the Frontend
+
+[![Frontend Deployment](https://img.shields.io/badge/Frontend%20Deployment-005571?style=for-the-badge&logo=vue.js)](https://transyltooniaa.github.io/deployment/)
+
 ## 📝 Overview
 
 This project focuses on developing a **specialized writing pen and digital pad** designed to assist children with specific learning disabilities, such as **dysgraphia**. Dysgraphia is a neurological disorder affecting writing abilities, making it challenging to express thoughts on paper. The main goal is to create an **interactive and user-friendly tool** that provides **real-time feedback** to help children improve their handwriting and motor skills in a structured and engaging manner.
@@ -90,10 +95,6 @@ The FastAPI backend will now be accessible at [http://localhost:8000](http://loc
 ## 💡 Usage
 
 Once both the frontend and backend are running, you can interact with the application through the Vue.js interface, which communicates with the FastAPI backend for data processing and API calls.
-
-## 🔗 Link to the Frontend
-
-[![Frontend Deployment](https://img.shields.io/badge/Frontend%20Deployment-005571?style=for-the-badge&logo=vue.js)](https://transyltooniaa.github.io/deployment/)
 
 ## 🤝 Contribution
 
